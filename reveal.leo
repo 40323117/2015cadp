@@ -35,6 +35,13 @@
 </v>
 <v t="amd.20150919113957.1"><vh>以下為 pelican 文章</vh></v>
 <v t="amd.20150919124128.1"><vh>@button pelican content</vh></v>
+<v t="leo.20160114153411.1" a="E"><vh>@path pelican</vh>
+<v t="leo.20160114153411.2"><vh>@edit publishconf.py</vh></v>
+<v t="leo.20160114153411.3" a="E"><vh>@path content</vh>
+<v t="leo.20160114153411.5"><vh>@edit 2015cphww1.md</vh></v>
+<v t="leo.20160114153411.21"><vh>@edit 2015cpnote1.md</vh></v>
+</v>
+</v>
 <v t="amd.20150919114010.1" a="E"><vh>@path pelican\content</vh>
 <v t="amd.20150919114035.1"><vh>@edit 2015cphww1.md</vh></v>
 </v>
@@ -2032,8 +2039,8 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 </t>
 <t tx="amd.20150915211351.9">&lt;section id="hw-task-one"&gt;
     &lt;h1&gt;作業任務一&lt;/h1&gt;
-    &lt;p&gt;有關作業任務一的說明&lt;/p&gt;
-    &lt;p&gt;請參考 &lt;a href="http://www.google.com"&gt;Google&lt;/a&gt;
+    &lt;p&gt;....&lt;/p&gt;
+    &lt;p&gt;&lt;/a&gt;
 &lt;/section&gt;
 				
 </t>
@@ -2285,5 +2292,7 @@ Diff...
 &lt;/head&gt;
 @others
 </t>
+<t tx="leo.20160114153411.1"></t>
+<t tx="leo.20160114153411.3"></t>
 </tnodes>
 </leo_file>
